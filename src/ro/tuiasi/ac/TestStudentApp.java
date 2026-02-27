@@ -4,6 +4,10 @@ package ro.tuiasi.ac;
 //in
 //pace
 //denisa
+//si mihai
+//nu ma
+//mai enervati
+//atata
 public class TestStudentApp {
 
 	public static void main(String[] args) {
