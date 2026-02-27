@@ -1,5 +1,5 @@
 package ro.tuiasi.ac;
-
+//ghygy
 public class Student {
 	///////// 
 	
